@@ -1,0 +1,32 @@
+body {
+background-color: gray;
+font-style: italic;
+direction: ltr;
+border: 2px solid orange;
+}
+
+h1{
+color: red;
+text-align: center;
+font-family: Arial;
+}
+
+h2{
+color: powderblue;
+text-align: left;
+font-family: Helvetica;
+font-weight: bold;
+}
+
+p{
+font-family: Times;
+font-size: 22px;
+color: white
+}
+
+h4{
+font-family: Arial;
+font-size: 25px;
+color: blue;
+font-variant: small-caps;
+}
